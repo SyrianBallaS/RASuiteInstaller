@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RASuiteInstaller", "RASuiteInstaller\RASuiteInstaller.vdproj", "{FAB55E84-FFB1-4B12-9D3D-1FD37295B0FF}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RASuite", "RASuiteInstaller\RASuiteInstaller.vdproj", "{FAB55E84-FFB1-4B12-9D3D-1FD37295B0FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Default = Debug|Default
 		Release|Default = Release|Default
+		Description = All the emulators available on the RetroAchievements download page.
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FAB55E84-FFB1-4B12-9D3D-1FD37295B0FF}.Debug|Default.ActiveCfg = Debug
